@@ -41,7 +41,7 @@ Query Folder: **[1_Cohort_Revenue_Analysis](1_Cohort_Revenue_Analysis)**
 **Visualizations** 
 
 **📈 Plot 1** (View in Tableau: [Plot_1](https://public.tableau.com/views/CohortAnalysis_17568466486670/AnnualCohortRevenues?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)) \
-<img src="Annual Cohort Revenues.png" alt="" width="70%">
+<img src="_images/Annual Cohort Revenues.png" alt="" width="70%">
 
 **Key Findings:**
  - Customers tend to spend the most during their first year; spending declines over time.
@@ -52,10 +52,10 @@ Query Folder: **[1_Cohort_Revenue_Analysis](1_Cohort_Revenue_Analysis)**
 - Reactivation campaigns around the 18–24 month mark may accelerate the revenue rebound.
 
 **📈 Plot 2** (View in Tableau: [Plot_2](https://public.tableau.com/views/CohortAnalysis_17568466486670/CohortYearImpactonCustomerGrowth?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)) \
-<img src="Cohort Year Impact on Customer Growth.png" alt=" " width="70%">
+<img src="_images/Cohort Year Impact on Customer Growth.png" alt=" " width="70%">
 
 **📈 Plot 3** (View in Tableau: [Plot_3](https://public.tableau.com/views/CohortAnalysis_17568466486670/CohortRevenuesPerYear?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) \
-<img src="Average Annual Cohort Revenues.png" alt=" " width="70%">
+<img src="_images/Average Annual Cohort Revenues.png" alt=" " width="70%">
 
 **Key Findings:**
 - Customers from earlier cohorts tend to spend more (On average, the 2015-2019 cohorts have spent $4500 on average, while the 2020-2024 cohorts have spent under $4000), although
@@ -67,7 +67,7 @@ Query Folder: **[1_Cohort_Revenue_Analysis](1_Cohort_Revenue_Analysis)**
 - The end of the Covid-19 pandemic may have encouraged customers' spending; some tests may be necessary to see which incentives and/or factors can lift average spending.
 
 **📈 Plot 4** (View in Tableau: [Plot_4](https://public.tableau.com/views/CohortAnalysis_17568466486670/RevenueDistributionSinceFirstOrder?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) \
-<img src="Revenue Distribution Since First Order.png" alt=" " style="width:70%; height:350">
+<img src="_images/Revenue Distribution Since First Order.png" alt=" " style="width:70%; height:350">
 
 **Finding & Recommendation:**
 - Most customers spend very little (if any) after their first purchase, indicating that customer retention is weak.
@@ -84,7 +84,7 @@ Query Folder: **[2_Customer_Segmentation_Analysis](2_Customer_Segmentation_Analy
 **Visualizations** 
 
 **📈 Plot 5** (View in Tableau: [Plot_5](https://public.tableau.com/views/CustomerLTV_17568471899110/TotalLTVbyAgeGroup?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) \
-<img src="Total LTV by Age Group.png" alt=" " style="width:70%; height:500">
+<img src="_images/Total LTV by Age Group.png" alt=" " style="width:70%; height:500">
 
 **Key Findings:**
 - The youngest customers (under 25) have the lowest total LTV, while senior customers (55 or older) have the highest, consistent with the progression of age.
@@ -95,13 +95,13 @@ Query Folder: **[2_Customer_Segmentation_Analysis](2_Customer_Segmentation_Analy
 - It may be helpful to increase product update/innovation in order to boost the LTV of younger customers.
 
 **📈 Plot 6** (View in Tableau: [Plot_6](https://public.tableau.com/views/CustomerLTV_17568471899110/CustomerCount?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) \
-<img src="Customer Count.png" alt=" " width="70%">
+<img src="_images/Customer Count.png" alt=" " width="70%">
 
 **📈 Plot 7** (View in Tableau: [Plot_7](https://public.tableau.com/views/CustomerLTV_17568471899110/TotalLTVbySegment?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) \
-<img src="Total LTV by Segment.png" alt=" " style="width:70%; height:400">
+<img src="_images/Total LTV by Segment.png" alt=" " style="width:70%; height:400">
 
 **📈 Plot 8** (View in Tableau: [Plot_8](https://public.tableau.com/views/CustomerLTV_17568471899110/LTVPercentagebySegment?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) \
-<img src="LTV Percentage by Segment.png" alt=" " style="width:70%; height:400;">
+<img src="_images/LTV Percentage by Segment.png" alt=" " style="width:70%; height:400;">
 
 **Key Findings:**
 - There are more customes in the mid-value group than the other two; such a trend is consistently obeserved across all age groups.
@@ -125,10 +125,10 @@ For each cohort year:
 **Visualizations** 
 
 **📈 Plot 9** (View in Tableau: [Plot_9](https://public.tableau.com/views/RetentionAnalysis_17568552147410/CustomerStatus?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) \
-<img src="Customer Status.png" alt=" " style="width:70%; height:400">
+<img src="_images/Customer Status.png" alt=" " style="width:70%; height:400">
 
 **📈 Plot 10** (View in Tableau: [Plot_10](https://public.tableau.com/views/RetentionAnalysis_17568552147410/StatusPercentage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) \
-<img src="Status Percentage.png" alt=" " style="width:70%; height:400;">
+<img src="_images/Status Percentage.png" alt=" " style="width:70%; height:400;">
 
 **Key Findings:**
 - Churn rates are relatively consistent across all cohorts.
